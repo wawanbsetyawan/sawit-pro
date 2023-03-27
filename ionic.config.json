@@ -1,0 +1,7 @@
+{
+  "name": "sawit-pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
